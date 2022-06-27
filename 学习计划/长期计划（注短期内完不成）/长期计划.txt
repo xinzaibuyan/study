@@ -1,0 +1,13 @@
+openvx框架学习
+doip协议框架学习
+havp框架学习
+fota框架学习
+ti框架学习
+lua语言控制wireshark
+rtos
+ad画电路
+建模（最后，不着急）
+自己编译linux系统
+压缩算法
+光线互相叠加产生映射到墙上的效果
+买钢琴，学钢琴
