@@ -1,2 +1,7 @@
-合并分支 git merge dev(dev是要被合并的分支，此时所在的分支是打算把dev合并的分支)
-git分支之间的版本回退111
+合并分支       git merge dev       (dev是要被合并的分支，此时所在的分支是打算把dev合并的分支)
+git分支之间的版本回退直接使用      git reset --hard 版本号          就可以，
+删除分支        git branch -d 分支名          删除分支
+
+
+当直接pull下不来时，可以在pull后边加上远程名 在加上分支名
+push 也是如此
