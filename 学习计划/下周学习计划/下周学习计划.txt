@@ -1,3 +1,0 @@
-安装配置好openvx
-json hash源码下载过一遍
-在有时间写个算法题，然后自己写json跟hash
