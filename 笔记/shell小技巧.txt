@@ -1,0 +1,6 @@
+ps -ef | grep vx_app_yh_jl_fota.out|grep -v grep
+首先ps -ef 是打印所有正在运行的进程 ，加上|grep 是是筛选带后边东西的进程名，最后所加入的|grep -v是过滤掉后边所加的参数
+while read $line 按行读取文件，读完为止，读完是done < filename
+eval $line 是获取行的前边和后边，前边是变量，后边是值，之后看过深入学习后再改
+eval sed -i 's/g_mcu_rboot_staus=[0-9]*/g_mcu_rboot_staus=1/g' update_1.cfg' 替换文件内前边是g_mcu_rboot_staus的等于
+号后边的值，之后要研究sed

@@ -5,3 +5,5 @@ fota源码升级对文件包及对系统的操作，的一个学习。
 doip框架的移植
 git操作
 fota做包流程
+shell脚本
+cjson
