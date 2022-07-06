@@ -14,3 +14,4 @@ Valgrind学习
 makefile一些学习,买本书吧
 shell也该买本书
 还有一种语言在公司的时候看看笔记
+lua语言
